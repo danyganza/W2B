@@ -1,1 +1,1 @@
-echo "Hey, I linked them!" > README.md
+"Hey, I linked them!" 
